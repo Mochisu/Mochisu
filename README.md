@@ -22,6 +22,5 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 #
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochisu" alt="mochisu" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mochisu&show_icons=true&theme=city_lights&title_color=0080c0&text_color=004080&bg_color=abc9de&locale=en" alt="mochisu" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochisu&theme=nord" alt="mochisu" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mochisu&show_icons=true&theme=nord&locale=en" alt="mochisu" /></p>
