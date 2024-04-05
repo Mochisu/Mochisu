@@ -22,5 +22,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 #
+
+![DekuJavaGIF](https://github.com/Mochisu/Mochisu/assets/108127618/642b56c2-0d71-4c06-8075-1d53c86ecd8a)
+#
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochisu&theme=nord" alt="mochisu" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mochisu&show_icons=true&theme=nord&locale=en" alt="mochisu" /></p>
