@@ -36,12 +36,12 @@
 <br/>
 I've never had the confidence to study computer science. <br/>
 <p align="justify">
-Everyone told me i'm just too bad at math and everything looked overwhelming. 
+Everyone told me i'm too bad at math and everything just looked overwhelming. 
 After school i followed my other passion and started to work as a childcare worker while studying to become a primary school teacher. 
 Although i had my first experiences with games, PCs and consoles rather late, i've loved them ever since.
-Thats why i taught multiple projects on media education while working in daycare and discussed the usage of tablets, cellphones and internet with the children.
-They learned that media could be used as a normal tool like pencil or scissors instead of only being used as a reward system. <br/>
-Then Covid hit and i had to give up on both, my studies and my work in childcare, because my symptoms wouldn't go away. <br/>
+Thats why i guided multiple projects on media education while working in daycare and discussed the usage of tablets, cellphones and internet with the children.
+They learned that media could be used as a normal tool like pencils or scissors instead of only being used as a reward system. <br/>
+Then Covid hit and i had to give up on both - my studies and my work in childcare, because my symptoms wouldn't go away. <br/>
 While searching for alternatives some friends of mine took me by the hand and showed me their work, different programming languages and how to build an app. 
 They showed me minecraft educational and we even participated in a game jam.
 Thats when i thought: Why not both? I already have the "Education" background. Why not combine that with some kind of "Media" background?
