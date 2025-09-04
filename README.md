@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 (❁´◡`❁)</h1>
 <br/>
 
-🌱 I'm a first year Computer Science Student trying to learn the basics 🦊✨ <br/>
+🌱 I'm a second year Computer Science Student trying to learn the basics 🦊✨ <br/>
 
 #
 
